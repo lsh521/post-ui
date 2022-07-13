@@ -1,7 +1,4 @@
 <p align="center">
-    <a href="http://iview.talkingdata.com/">
-        <img width="200" src="https://file.iviewui.com/logo-new.svg">
-    </a>
 </p>
 
 <h1>
@@ -58,7 +55,7 @@ We also provide a starter kit [iview-project](https://github.com/iview/iview-pro
 
 Using npm:
 ```
-npm install iview --save
+npm install post-iview --save
 ```
 
 Using a script tag for global use:
