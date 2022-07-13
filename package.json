@@ -1,7 +1,7 @@
 {
-  "name": "post-ui",
-  "version": "3.5.4",
-  "title": "post-ui",
+  "name": "post-viewui",
+  "version": "1.1.2",
+  "title": "post-viewui",
   "description": "A high quality UI components Library with Vue.js",
   "homepage": "http://iview.talkingdata.com",
   "keywords": [
